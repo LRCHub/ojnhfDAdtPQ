@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "傷つけど、愛してる。",
+  "base_artist": "ツユ",
+  "createdAt": "2026-02-14T20:37:31.476019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "傷つけど、愛してる。",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_傷つけど、愛してる。_ツユ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "傷つけど、愛してる。",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_傷つけど、愛してる。_ツユ.txt"
+    }
+  ]
+}
